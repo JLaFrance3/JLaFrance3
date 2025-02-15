@@ -2,7 +2,10 @@
 <h3 align="center">A Software Engineering student at Quinnipiac University!</h3>
 
 - 🔭 I’m currently working on **my Junior year of university**
-- 🌱 I’m currently learning **Object-oriented design and programming in Java**
+- 🌱 I’m currently learning:
+  - **📱Android app development**
+  - **🛜 Web development**
+  - **💭 Computational problem solving**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
