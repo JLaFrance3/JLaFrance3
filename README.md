@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jean LaFrance</h1>
 <h3 align="center">A Software Engineering student at Quinnipiac University!</h3>
 
-- 🔭 I’m currently working on **my Junior year of university**
+- 🔭 I’m currently working on **my Senior year of university**
 - 🌱 I’m currently learning:
-  - **📱Android app development**
-  - **🛜 Web development**
-  - **💭 Computational problem solving**
+  - **💭 Cloud Computing**
+  - **💻 Full Stack II**
+  - **🧩 Software Engineering Capstone**
+  - **🧪 Software Quality Assurance**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
